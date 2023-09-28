@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning **Computer Vision**
-- 👀 I’m interested in **AI, ML, NLP,and AI Ethics**.
+- 👀 I’m interested in **AI, ML, NLP, and AI Ethics**.
 - 📫 How to reach me **phuupwint379@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
